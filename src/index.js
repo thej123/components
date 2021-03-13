@@ -12,7 +12,8 @@ const App = () => {
                 <div>
                     <h4>Warning!</h4>
                     Are you sure?
-                </div></AprrovalCard>
+                </div>
+            </AprrovalCard>
             <AprrovalCard>
                 <CommentDetail
                 author='Sam' 
